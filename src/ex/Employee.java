@@ -14,4 +14,6 @@ public class Employee {
 	public String getName() {
 		return this.name;
 	}
+
+	//Eclipseから直接プッシュ
 }
